@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Pixy | Fakebook</title>
+     
+</head>
+ <body>
+      <h1><i>FAKEBOOK</i></h1>
+      Search: <input type="text" placeholder="Search by name">
+      
+      <br>
+        
+      <h2>Pixy</h2>
+      <img src="https://lotusz.cafeblog.hu/files/2018/01/cica-5.jpg"width="400" height="300">
+      <br>
+      <br>
+      
+      <button>Add a friend</button>
+      <br>
+      <p><strong>City:</strong> Budapest</p>
+      <p><strong>Age:</strong> 20+</p>
+      <p><strong>Education:</strong> Ninja student</p>
+      <p><strong>Hobby:</strong> sleeping</p>
+      <p><strong>FB friends:</strong> 654321</p>
+  </body>
+</html>
