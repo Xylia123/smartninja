@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="My Fakebook">
+        <meta name="keywords" content="me, hobbies, fakebook">
+        <meta name="author" content="Pixy">
+
+        <title>Pixy | Fakebook</title>
+
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+    <body>
+        <h1><i>FAKEBOOK</i></h1>
+        Search: <input type="text" placeholder="Search by name" id="search">
+
+        <br>
+
+        <h2>Pixy</h2>
+        <img src="https://lotusz.cafeblog.hu/files/2018/01/cica-5.jpg"width="400" height="300">
+        <br>
+        <br>
+
+        <button>Add a friend</button>
+        <br>
+
+        <p class="category"><strong>City:</strong> Budapest</p>
+        <p class="category"><strong>Age:</strong> 20+</p>
+        <p class="category"><strong>Education:</strong> Ninja student</p>
+        <p class="category"><strong>Hobby:</strong> sleeping</p>
+        <p class="category"><strong>FB friends:</strong> 654321</p>  
+    </body>
+</html>
