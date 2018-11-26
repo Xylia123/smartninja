@@ -34,5 +34,5 @@ img {
 }
 
 img:hover {
-  border: 6px red solid;
+  border: 6px blue solid;
 }
