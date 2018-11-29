@@ -36,3 +36,6 @@ img {
 img:hover {
   border: 6px blue solid;
 }
+
+a
+x
