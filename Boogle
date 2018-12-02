@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="My Boogle"> 
+         <title>Pixy | Boogle</title>
+         <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+    <body>
+        <h1><i>Boogle</i></h1>
+        Search: <input type="text" placeholder="Keressen a Boogle-n" id="search">
+    <br>
+    <br>
+  <div class="container">
+  </div>
+<p>
+  <button class="button white border">Keresés</button>
+  <button class="button yellow border">Jó napom van</button>
+</p>
+   <div class="footer">
+      <p>Adatvédelem</p>
+   </div>
+</body>
+</html>
